@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CustomNavigationDrawer</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hamza_athar">Hamza Athar</string>
+    <string name="khanhamza000_nayapay">khanhamza000@nayapay</string>
+    <string name="games">Games</string>
+    <string name="movies">Movies</string>
+    <string name="books">Books</string>
+    <string name="newsstand">Newsstand</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Blank Fragment</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+</resources>
